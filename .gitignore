@@ -1,3 +1,4 @@
 *.zip
 .venv
 road-sign-detection
+annotations
